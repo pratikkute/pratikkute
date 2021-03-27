@@ -40,12 +40,15 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://logout.world/blogs/)
 
 ---
+
+
+  <img align="left" alt="pratikkute's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pratikkute&show_icons=true&hide_border=true" />
+
 
 
 [website]: https://logout.world
