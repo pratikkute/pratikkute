@@ -46,9 +46,9 @@
 
 ---
 
-<!--
+
   <img align="left" alt="pratikkute's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pratikkute&show_icons=true&hide_border=true" />
- -->
+
 
 
 [website]: https://logout.world
