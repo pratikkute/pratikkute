@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="logout.world" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="logout.world" width="22px" src="https://logout.world/media/favicon.png" />][website]
 [<img align="left" alt="pratikkute | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="pratikkute | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="pratikkute | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -46,9 +46,9 @@
 
 ---
 
-
-  <img align="left" alt="pratikkute's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pratikkute&show_icons=true&hide_border=true" />
-
+<!--
+  <img align="left" alt="pratikkute's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pratikkute&show_icons=true&hide_border=true" />
+ -->
 
 
 [website]: https://logout.world
