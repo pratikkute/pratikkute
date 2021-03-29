@@ -1,5 +1,9 @@
 ### Hi there, I'm Pratik - [website] 👋 [![Website](https://logout.world/media/favicon.png)](https://logout.world/)
 
+<!-- [![Website https://logout.world/](https://img.shields.io/website-up-down-green-red/https/pratikkute.github.io.svg)][website] -->
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)][website]
+[![GitHub followers](https://img.shields.io/github/followers/pratikkute.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/pratikkute?tab=followers)
+
 ## I'm a Developer!!
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning everything 🤣
@@ -19,9 +23,11 @@
 
 <br />
 
+----
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]()
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
 <!-- [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]() -->
@@ -35,21 +41,20 @@
 
 <br />
 <br />
----
 
+----
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+
 ➡️ [more blog posts...](https://logout.world/blogs/)
 
----
-
-
+----
   <img align="left" alt="pratikkute's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pratikkute&show_icons=true&hide_border=true" />
 
-
+----
 
 [website]: https://logout.world
 [youtube]: https://youtube.com/pratikkute
