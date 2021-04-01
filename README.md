@@ -1,6 +1,6 @@
-### Hi there, I'm Pratik - [website] 👋 [![Website](https://logout.world/media/favicon.png)](https://logout.world/)
+### Hi there, I'm Pratik - 👋 [![Website](https://logout.world/media/favicon.png)][website]
 
-<!-- [![Website https://logout.world/](https://img.shields.io/website-up-down-green-red/https/pratikkute.github.io.svg)][website] -->
+[![Website pratikkute.github.io](https://img.shields.io/website-up-down-green-red/https/pratikkute.github.io.svg)][website]
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)][website]
 [![GitHub followers](https://img.shields.io/github/followers/pratikkute.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/pratikkute?tab=followers)
 
@@ -42,21 +42,25 @@
 <br />
 <br />
 
-----
+---
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-
 ➡️ [more blog posts...](https://logout.world/blogs/)
 
-----
+---
+### ⚙ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
   <img align="left" alt="pratikkute's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pratikkute&show_icons=true&hide_border=true" />
 
-----
 
-[website]: https://logout.world
+[website]: http://pratikkute.github.io/
 [youtube]: https://youtube.com/pratikkute
 [instagram]: https://instagram.com/pratikkute
 [linkedin]: https://linkedin.com/in/pratikkute
