@@ -51,13 +51,6 @@
 ➡️ [Check blog posts here...](https://pratikkute.github.io/)
 
 ---
-### ⚙ Recent Activity
-
-<!--START_SECTION:activity-->
-
-
-  <img align="left" alt="pratikkute's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pratikkute&show_icons=true&hide_border=true" />
-
 
 [website]: https://pratikkute.github.io/
 [youtube]: https://youtube.com/pratikkute
